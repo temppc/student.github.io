@@ -31,11 +31,11 @@
         .back
         {
             
-            height: 395px;
+            height: 400px;
             width:280px;
             position: relative;
             background-image:url('idbackground.jpg');
-            background-size: 280px 390px;
+            background-size: 280px 400px;
             background-repeat: no-repeat;
         }
         
