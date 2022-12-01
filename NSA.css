@@ -1,0 +1,82 @@
+*
+        {
+            margin:00px;
+            padding: 00px;
+            
+        }
+        
+
+        /* this is demo project ds<trlh; */
+        /* don't edit this portion container; */
+        /* NSA student ID c a r d ; */
+
+        
+        .container
+        {
+            height: 100vh;
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            box-sizing: border-box;
+            flex-direction: row;
+
+            
+
+        }
+        
+        /* this is for background photo size & position; */
+        
+        .back
+        {
+            
+            height: 395px;
+            width:280px;
+            position: relative;
+            background-image:url('idbackground.jpg');
+            background-size: 280px 390px;
+            background-repeat: no-repeat;
+        }
+        
+       
+
+        .tab {padding-right:30px;}
+
+         /*this is for idphoto size and position; */
+
+        .idphoto img
+        {
+            height: 80px;
+            width:70px;
+            position: absolute;
+            top: 110px;
+            left: 195px;
+            object-fit: content;
+            
+        }
+      
+        /* this is for about student facts as a text; */ 
+        
+        .etxt
+        {
+            position: absolute;
+            top: 150px;
+            text-transform:capitalize;
+            font-size: 12px;
+            text-emphasis: spacing;
+            margin-left: 10px;
+            cursor: not-allowed;
+        }
+        .endstickfoot
+        {
+            position: absolute;
+            top: 392px;
+            text-transform:capitalize;
+            font-size: 5px;
+            font-weight: bold;
+            text-emphasis: spacing;
+            margin-left: 68px;
+            cursor: not-allowed;
+        }
+        
