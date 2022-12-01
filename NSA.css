@@ -31,11 +31,11 @@
         .back
         {
             
-            height: 420px;
+            height: 460px;
             width:280px;
             position: relative;
             background-image:url('idbackground.jpg');
-            background-size: 280px 420px;
+            background-size: 280px 460px;
             background-repeat: no-repeat;
         }
         
@@ -71,7 +71,7 @@
         .endstickfoot
         {
             position: absolute;
-            top: 392px;
+            top: 400px;
             text-transform:capitalize;
             font-size: 5px;
             font-weight: bold;
