@@ -31,22 +31,24 @@
         .back
         {
             
-            height: 460px;
+            height: 490px;
             width:280px;
             position: relative;
             background-image:url('idbackgroundupdate.jpg');
-            background-size: 280px 460px;
+            background-size: 280px 490px;
             background-repeat: no-repeat;
         }
         
+
+        /* this is for stamp image; */
         
         .logonsa img
         {
             height: 80px;
-            width:70px;
+            width:80px;
             position: absolute;
-            top: 300px;
-            left: 217px;
+            top: 410px;
+            left: 174px;
             object-fit: content;
 
             
@@ -61,8 +63,8 @@
             height: 80px;
             width:70px;
             position: absolute;
-            top: 340px;
-            left: 175px;
+            top: 360px;
+            left: 180px;
             object-fit: content;
             
         }
@@ -79,10 +81,15 @@
             margin-left: 10px;
             cursor: not-allowed;
         }
+        
+
+    
+        /* this is for end text; */
+        
         .endstickfoot
         {
             position: absolute;
-            top: 460px;
+            top: 490px;
             text-transform:capitalize;
             font-size: 5px;
             font-weight: bold;
